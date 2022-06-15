@@ -1,2 +1,3 @@
 # Git test
-qwe123
+Its my first git repository
+In script.js commands for git and github
